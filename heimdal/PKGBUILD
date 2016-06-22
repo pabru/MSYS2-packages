@@ -1,5 +1,7 @@
 # Maintainer: Alexey Pavlov <alexpux@gmail.com>
 
+###ADMIN: This.
+
 pkgbase=heimdal
 pkgname=('heimdal' 'heimdal-libs' 'heimdal-devel')
 pkgver=1.5.3
